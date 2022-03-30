@@ -1,3 +1,6 @@
 # internettp
 İnternet Tabanlı Programlama
-Ali Mert Uyumaz  191502002
+Ali Mert Uyumaz  191502002 Bilgisayar Mühendisliği
+Visual Studio Code ile yazıldı.
+
+12.03.2022 tarihinde ilk taslağımı yayınladım. Şimdilik sadece öğrenim geçmişim yer alıyor. Daha sonrasında anasayfa ve sekmeler eklenecektir.
