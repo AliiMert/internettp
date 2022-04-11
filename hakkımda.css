@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+.container .navbar{
+    width: 100% ;
+    height: 10%;
+    background-color:rgba(24, 57, 202);
+    position:fixed; top:0px; left:0px; right:0px; 
+    opacity: 0.85;
+    
+    
+}
+
+.navbar .AliMert{
+    display:inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.navbar .AliMert a{
+    text-decoration:none;
+    font-size: 25px;
+    font-family:sans-serif;
+    color: rgb(161, 199, 25);
+
+}
+.navbar ul{
+    float: right;
+    margin-right:20px;
+}
+
+.navbar ul li{
+    list-style:none;
+    display:inline-block;
+    margin:0 10px;
+    line-height:65px;
+}
+
+.navbar ul li a{
+    color: rgb(143, 167, 59);
+    text-decoration:none;
+    font-size:20px;
+    padding: 6px 13px;
+    font-family:Roboto;
+}
+
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background-color: rgb(90, 172, 205);
+    border-radius:2px;
+}
+ 
