@@ -3,9 +3,16 @@
     padding: 0;
     
 }
+
+
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
 .container .navbar{
     width: 100% ;
-    height: 10%;
+    height: 7%;
     background-color:rgba(24, 57, 202);
     position:fixed; top:0px; left:0px; right:0px; 
     opacity: 0.85;
@@ -51,3 +58,43 @@
     border-radius:2px;
 }
  
+a{
+    text-decoration: none;
+}
+
+.box{
+    width: 250px;
+    height:25px;
+    border: 3px solid #000;
+    background-color:#ff9900;
+}
+
+.box-leftside{
+    width: 700px;
+    height:230px;
+    border: 3px dotted #000;
+    margin-top: 25px;
+    padding-right: 10px;
+    margin-left: 10%;
+}
+.box-rightside{
+    width: 700px;
+    height:230px;
+    border: 3px dotted #000;
+    margin-top: 25px;
+    padding-left: 10px;
+    margin-left: 50%;
+}
+#box-p{
+   text-align: center;
+}
+.box-img{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#img-enjoy{
+    margin-top: 25px;
+    padding-left: 850px;
+    margin-left: 50%;
+}
