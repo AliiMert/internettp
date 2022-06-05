@@ -4,7 +4,7 @@
     
 }
 body{
-    background-image: url("background.jpg");
+    background-image: url(background.jpg);
     background-size: cover;
 }
 .container .navbar{
@@ -54,3 +54,24 @@ body{
     background-color: rgb(90, 172, 205);
     border-radius:2px;
 }
+<<<<<<< HEAD
+=======
+
+
+.stringTyped {
+
+    font-size:xx-large;
+    text-align:center;
+    margin-bottom: 2rem;
+    color: #111;
+    font-weight:600;
+    height: 50px;
+    
+  }
+  
+  #typed {
+  
+    font-family: 'Press Start 2P';
+  
+  }
+>>>>>>> f96f9a604c9b268feaace4e987a13bd21aa52cff
