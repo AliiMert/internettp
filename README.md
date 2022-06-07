@@ -11,4 +11,4 @@ Visual Studio Code ile yazıldı.
 8.06.2022 tarihinde anasayfa dolduruldu. hobilerim ekranı eklendi. hobilerim ekranı içeriği dolduruldu. navbar renkleri değiştirildi.
 
 
-İnternet siteme bu site üzerinden ulaşabilirsiniz. https://aliimert.github.io/anasayfa.html
+İnternet siteme bu link üzerinden ulaşabilirsiniz. https://aliimert.github.io/anasayfa.html
