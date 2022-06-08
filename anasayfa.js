@@ -11,7 +11,8 @@
     function sayfaDegis() {
        location.href = "anasayfa.html";                        
     }
-       
+   
+    
 
   })();
   
