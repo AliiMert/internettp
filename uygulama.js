@@ -25,12 +25,4 @@
             }, timerHizi);
         }
     }
-
-
-    function sayfaDegis() {
-                            
-    }
-   
-    
-
   })();
