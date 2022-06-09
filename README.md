@@ -10,3 +10,4 @@ Visual Studio Code ile yazıldı.
 5.06.2022 tarihinde keyifli bir giriş sayfası yapıldı. js ile ufak işler yapıldı.
 8.06.2022 tarihinde anasayfa dolduruldu. hobilerim ekranı eklendi. hobilerim ekranı içeriği dolduruldu. navbar renkleri değiştirildi.
 8.06.2022 tarihinde anasayfadaki progress barlara js eklendi. Giriş sayfdasındaki yazı boyutu büyütüldü.
+9.06.2022 tarihinde giriş sayfasında yazı büyütüldü. içerik güncellendi. 
